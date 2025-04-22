@@ -1,8 +1,8 @@
 <h1 align="center">👋 Hi, I'm a System & Network Engineer from South Korea</h1>
 
 <p align="center">
-  Passionate about infrastructure automation, backend systems, and clean DevOps pipelines.<br>
-  I build scalable, secure environments — from on-premise Hyper-V to cloud-native apps.
+I architect and automate resilient backend infrastructures — from bare-metal Linux servers to containerized cloud environments.<br>
+Focused on operational excellence, performance, and full-stack system reliability.
 </p>
 
 ---
