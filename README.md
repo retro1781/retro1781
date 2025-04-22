@@ -1,39 +1,61 @@
-<h1 align="center">👋 Hi there! I'm a System & Network Engineer from South Korea</h1>
+<h1 align="center">👋 Hi, I'm a System & Network Engineer from South Korea</h1>
 
 <p align="center">
-  Passionate about backend development, infrastructure automation, and system reliability.<br>
-  I focus on building scalable, secure, and efficient systems.
+  Specialized in backend development, infrastructure automation, and system reliability.<br>
+  I design scalable, secure, and high-availability systems across Linux, Windows Server, and virtualization environments.
 </p>
 
 ---
 
 ## 💡 About Me
 
-- 🔧 System & Network Administrator by profession  
-- 🐍 Backend Developer with Python (FastAPI / Flask)  
-- 🧱 Windows Server (2019, 2022) 운영 및 자동화 경험  
-- ☁️ Virtualization: Hyper-V / Proxmox 기반 시스템 구축 및 자동화  
-- 🐧 Linux enthusiast, Docker and CI/CD lover  
-- 📡 Experienced in designing and operating monitoring systems  
-- 🎯 Focused on automation, performance tuning, and incident response
+- 🔧 System & Network Engineer with strong hands-on experience in server infrastructure
+- 🐍 Backend developer using Python (FastAPI, Flask)
+- 🐧 Linux power user, Docker & CI/CD pipeline designer
+- 🪟 Windows Server 2019 / 2022 management and automation
+- ☁️ Virtualization expertise with Hyper-V and Proxmox (automated VM provisioning, templating, and monitoring)
+- 📡 Prometheus + Grafana dashboard designer for real-time monitoring
+- 🎯 Focused on clean automation, security hardening, and reliable operations
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hyper--V-0078D7?style=flat-square&logo=windows&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+### 👨‍💻 Programming & Backend
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white"/>
+</p>
+
+### 🖥 OS & Virtualization
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Windows_Server-0078D7?style=flat&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Proxmox-E57000?style=flat&logo=proxmox&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hyper--V-0078D7?style=flat&logo=windows&logoColor=white"/>
+</p>
+
+### 📦 Infra & Automation
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white"/>
+</p>
+
+### 📊 Monitoring & Logs
+<p>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ELK-005571?style=flat&logo=elastic&logoColor=white"/>
+</p>
+
+### 🗃️ Databases
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
 </p>
 
 ---
@@ -41,25 +63,31 @@
 ## 🚀 Featured Projects
 
 ### 🔹 [Network Monitoring Automation](https://github.com/retro1781/your-repo)
-> A real-time network analysis tool that detects abnormal patterns and sends alerts to administrators.
+> Real-time network monitoring system with anomaly detection and alerting.
 
-- Built with Python + FastAPI
-- Uses Prometheus + Grafana for metrics and dashboards
-- Slack / Webhook integration for incident alerts
+- FastAPI backend with Prometheus metrics collection
+- Grafana dashboards for live visualization
+- Integrated alerting via Slack, Email, and Webhooks
 
-### 🔹 [Server Provisioning Automation](https://github.com/retro1781/your-repo2)
-> Automates provisioning of Linux/Windows servers, installs monitoring agents, and applies security policies.
+### 🔹 [Windows & Linux Server Provisioning Automation](https://github.com/retro1781/your-repo2)
+> Automates full server deployment with configuration management and security policies.
 
-- Ansible-based automated playbooks for Linux and Windows Server (2019, 2022)
-- Hyper-V / Proxmox VM lifecycle automation included
-- Dynamic inventory + remote execution via WinRM and SSH
+- Proxmox + Hyper-V automation (VM creation, templating, networking)
+- Ansible-based workflows for both Linux and Windows
+- CI/CD deployment hooks via GitHub Actions
 
 ---
 
-## 🧩 Other Repositories
+## 🎥 Demo Videos & Presentations
 
-- 🔧 [Dotfiles](https://github.com/retro1781/dotfiles) — my Linux development environment setup  
-- 📝 [Tech Blog](https://velog.io/@retro1781) — documenting my lessons from the field
+- 🔧 **Proxmox VM Automation Showcase**  
+  [▶️ Watch Demo](https://yourvideo.link)
+
+- 📡 **Grafana Monitoring Dashboard Walkthrough**  
+  [▶️ Watch on YouTube](https://yourvideo.link)
+
+- 🧪 **Windows Server Auto-Configuration with Ansible**  
+  [▶️ Internal Demo Link or Placeholder](https://yourvideo.link)
 
 ---
 
@@ -73,13 +101,20 @@
 
 ---
 
+## 🧩 Other Repositories
+
+- 🔧 [Dotfiles](https://github.com/retro1781/dotfiles) — my personal dev environment setup  
+- 📝 [Tech Blog](https://velog.io/@retro1781) — real-world IT lessons & use cases
+
+---
+
 ## 📬 Contact
 
-- **Email**: whoongyi@retr0.kr  
-- **Website**: https://retr0.kr
+- 📧 **Email**: whoongyi@retr0.kr  
+- 🌐 **Website**: [https://retr0.kr](https://retr0.kr)
 
 ---
 
 <p align="center">
-  💬 I'm open to collaboration, feedback, and meaningful tech conversations. Let’s connect!
+  💬 Open for collaboration, side projects, and deep-tech chats. Let’s connect!
 </p>
