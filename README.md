@@ -11,9 +11,9 @@
 
 - 🔧 System & Network Engineer with strong hands-on experience in server infrastructure
 - 🐍 Backend developer using Python (FastAPI, Flask)
+- 🧱 Windows Server 2019 / 2022 management and automation
+- ☁️ Virtualization expert with Hyper-V and Proxmox (automated provisioning and monitoring)
 - 🐧 Linux power user, Docker & CI/CD pipeline designer
-- 🪟 Windows Server 2019 / 2022 management and automation
-- ☁️ Virtualization expertise with Hyper-V and Proxmox (automated VM provisioning, templating, and monitoring)
 - 📡 Prometheus + Grafana dashboard designer for real-time monitoring
 - 🎯 Focused on clean automation, security hardening, and reliable operations
 
@@ -21,41 +21,46 @@
 
 ## 🛠 Tech Stack
 
-### 👨‍💻 Programming & Backend
+### 🧠 Primary Stack
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
-### 🖥 OS & Virtualization
+### 🖥️ Infrastructure & Automation
 <p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Windows_Server-0078D7?style=flat&logo=windows&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Proxmox-E57000?style=flat&logo=proxmox&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hyper--V-0078D7?style=flat&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Windows_Server-0078D7?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hyper--V-0078D7?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
 </p>
 
-### 📦 Infra & Automation
+### 📊 Monitoring & Logging
 <p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ELK-005571?style=for-the-badge&logo=elasticstack&logoColor=white"/>
 </p>
 
-### 📊 Monitoring & Logs
+### 🗃️ Databases & Messaging
 <p>
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ELK-005571?style=flat&logo=elastic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
-### 🗃️ Databases
+### 🧪 Familiar With
 <p>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
 ---
@@ -78,7 +83,7 @@
 
 ---
 
-## 🎥 Demo Videos & Presentations
+## 🎥 Demo Videos
 
 - 🔧 **Proxmox VM Automation Showcase**  
   [▶️ Watch Demo](https://yourvideo.link)
@@ -87,7 +92,7 @@
   [▶️ Watch on YouTube](https://yourvideo.link)
 
 - 🧪 **Windows Server Auto-Configuration with Ansible**  
-  [▶️ Internal Demo Link or Placeholder](https://yourvideo.link)
+  [▶️ Internal Demo Link](https://yourvideo.link)
 
 ---
 
