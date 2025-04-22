@@ -11,6 +11,8 @@
 
 - 🔧 System & Network Administrator by profession  
 - 🐍 Backend Developer with Python (FastAPI / Flask)  
+- 🧱 Windows Server (2019, 2022) 운영 및 자동화 경험  
+- ☁️ Virtualization: Hyper-V / Proxmox 기반 시스템 구축 및 자동화  
 - 🐧 Linux enthusiast, Docker and CI/CD lover  
 - 📡 Experienced in designing and operating monitoring systems  
 - 🎯 Focused on automation, performance tuning, and incident response
@@ -19,23 +21,19 @@
 
 ## 🛠️ Tech Stack
 
-| Area | Technologies |
-|------|--------------|
-| Backend | Python, FastAPI, Flask |
-| Infrastructure | Linux, Nginx, Docker, Docker Compose |
-| Automation | Ansible, GitHub Actions |
-| Monitoring | Prometheus, Grafana, ELK Stack |
-| Database / Cache | PostgreSQL, Redis, MongoDB |
-| Others | Bash, REST API, WebSocket |
-
----
-
-## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=retro1781&show_icons=true&theme=tokyonight&count_private=true" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=retro1781&theme=tokyonight"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hyper--V-0078D7?style=flat-square&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
 </p>
 
 ---
@@ -50,11 +48,11 @@
 - Slack / Webhook integration for incident alerts
 
 ### 🔹 [Server Provisioning Automation](https://github.com/retro1781/your-repo2)
-> A system that automates new server setup, monitoring agent installation, and basic security hardening.
+> Automates provisioning of Linux/Windows servers, installs monitoring agents, and applies security policies.
 
-- Built with Ansible and Bash scripting
-- Modular roles for scalability and reuse
-- Includes CI/CD deployment hooks
+- Ansible-based automated playbooks for Linux and Windows Server (2019, 2022)
+- Hyper-V / Proxmox VM lifecycle automation included
+- Dynamic inventory + remote execution via WinRM and SSH
 
 ---
 
@@ -62,6 +60,16 @@
 
 - 🔧 [Dotfiles](https://github.com/retro1781/dotfiles) — my Linux development environment setup  
 - 📝 [Tech Blog](https://velog.io/@retro1781) — documenting my lessons from the field
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=retro1781&show_icons=true&theme=tokyonight&count_private=true" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=retro1781&theme=tokyonight"/>
+</p>
 
 ---
 
